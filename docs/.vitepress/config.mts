@@ -9,5 +9,6 @@ export default defineConfig({
     nav: [
       { text: 'Make money now!', link: 'https://uxj.app/pages/login/register?invitation=85FTCH' },
     ],
-  }
+  },
+  outDir: '../dist' 
 })
