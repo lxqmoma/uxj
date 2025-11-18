@@ -41,3 +41,7 @@ I've put my referral link and invitation link at the end. If you want to earn so
 [**Let's make money together!**](https://uxj.app/pages/login/register?invitation=85FTCH)
 
 [**Make money now!**](https://kntn.ly/8a0489b7)
+
+Because the website loads better on mobile devices, you can also scan the QR code below to open it if you wish.
+
+![[UXJ](https://kntn.ly/8a0489b7)](./k.png)
