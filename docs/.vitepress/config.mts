@@ -10,5 +10,5 @@ export default defineConfig({
       { text: 'Make money now!', link: 'https://uxj.app/pages/login/register?invitation=85FTCH' },
     ],
   },
-  outDir: '../dist' 
+  outDir: '../dist'
 })
