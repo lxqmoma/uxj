@@ -1,6 +1,8 @@
-# Current ways to make money in mainland China
+# Current ways to make money in China
 
-This article will explain how to make money in mainland China in the current environment.
+This article will explain how to make money in China in the current environment.
+
+It is recommended to **translate this page into Chinese** before reading.
 
 ## Necessary & Important
 
@@ -34,7 +36,7 @@ The platform has an [official tutorial](http://38.181.24.144:10086/doc/1/); afte
 
 You can clearly see that everything I mentioned above includes website links. That's right, the website links are the discounted recharge platforms I introduced.
 
-This platform requires you to access it using a VPN, as the money-making methods described above are illegal in mainland China. If you are facing financial difficulties, you need to make your own judgment about whether you are willing to do this.
+This platform requires you to access it using a VPN, as the money-making methods described above are illegal in China. If you are facing financial difficulties, you need to make your own judgment about whether you are willing to do this.
 
 I've put my referral link and invitation link at the end. If you want to earn some extra money or are experiencing financial difficulties, you can participate!
 
